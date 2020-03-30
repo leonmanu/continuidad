@@ -22,6 +22,6 @@ export class CursoService {
   }
 
   deleteCurso(id: string) {
-    return 'Eliminar Curso -> service';
+    return 'Eliminar Curso -> service.';
   }
 }
