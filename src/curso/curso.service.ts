@@ -18,7 +18,7 @@ export class CursoService {
   }
 
   putCursoUno(id: string, curso: CursoI) {
-    return 'Modificar Curso -> la pucha';
+    return 'Modificar Curso -> la puta';
   }
 
   deleteCurso(id: string) {
