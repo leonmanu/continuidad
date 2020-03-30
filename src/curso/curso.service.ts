@@ -14,7 +14,7 @@ export class CursoService {
   }
 
   postCurso(curso: CrearCursoDto) {
-    return `Curso creado: ${curso.clave} -> service`;
+    return `Curso creado: ${curso.clave} -> gay`;
   }
 
   putCursoUno(id: string, curso: CursoI) {
